@@ -1,5 +1,7 @@
 # npm-requirements
 
+a requirements.txt file for npm instead of python
+
 How to use
 
 ```
