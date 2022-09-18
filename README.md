@@ -2,7 +2,8 @@
 
 How to use
 
-```git clone https://github.com/AdamBeijar/npm-requirements
+```
+git clone https://github.com/AdamBeijar/npm-requirements
 cd npm-requirements
 node index.js
 ```
