@@ -1,0 +1,1 @@
+npm install @babel/plugin-proposal-class-properties @material-ui/core axios @material-ui/icons react-router react-dom react-router-dom @babel/core @babel/preset-env react @babel/preset-react babel-loader webpack-cli webpack 
